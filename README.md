@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebastianedgarabels&label=Profile%20views&color=0e75b6&style=flat" alt="sebastianedgarabels" /> </p>
 
-- 🔭 I’m currently working on **Code Academy Platform**
+- 🔭 I’m currently working on **mb Support**
 
 - 🌱 I’m currently learning **TypeScript**
 
